@@ -1,0 +1,66 @@
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 1.5em;
+}
+
+ul li img {
+    background: none;
+    padding: 3px;
+}
+
+header
+
+
+
+
+
+#top-of-page {
+    border: 5px solid maroon;
+}
+
+body {
+    texr-align: center;
+    margin: 0
+}
+
+h1 {
+    font-size: 4em;
+font-family:
+    border: 3px solid red;
+    margin: 2px;
+    padding: 50px;
+
+}
+
+h3{
+    font-family:
+    font-size: 2.5em;
+
+}
+
+h4 {
+    font-family:
+    font-size: 2em;
+}
+header > img {
+    height: auto
+    width: 350px;
+    border-radius: 25px
+}
+
+
+
+
+
+
+
+
+
+footer {
+    margin: 2em 0;
+    border: 2px solid maroon;   
+}
+footer > a {
+
+}
